@@ -3,7 +3,7 @@
               <p align="center">    <img src='https://routeegypt.com/pinkboatIMG/geeks.png' width="300"/></p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmedmuti&label=Profile%20views&color=0e75b6&style=flat" alt="ahmedmuti" /> </p>
 
-- 🔭 I’m currently working on **LinkedDiv Project**
+- 🔭 I’m currently working on **LinkedDev Project**
 
 - 🌱 I’m currently learning **DevOps**
 
