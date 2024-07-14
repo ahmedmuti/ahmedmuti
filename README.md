@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ahmed Abd Al-Muti</h1>
 <h3 align="center">A passionate frontend/backend developer from Egypt</h3>
-              <p align="center">    <img src='https://routeegypt.com/pinkboatIMG/geeks.png' width="300"/></p>
+           
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmedmuti&label=Profile%20views&color=0e75b6&style=flat" alt="ahmedmuti" /> </p>
-
-- 🔭 I’m currently working on **LinkedDev Project**
 
 - 🌱 I’m currently learning **DevOps**
 
@@ -18,7 +16,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/ahmedmuti" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="ahmedmuti" height="30" width="40" /></a>
-<a href="https://linkedin.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ahmedmuti" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ahmedmuti" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ahmedmuti" height="30" width="40" /></a>
 <a href="https://fb.com/ahmedmu3ti" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ahmedmu3ti" height="30" width="40" /></a>
 <a href="https://instagram.com/ahmed_abd_elmuti" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ahmed_abd_elmuti" height="30" width="40" /></a>
 </p>
